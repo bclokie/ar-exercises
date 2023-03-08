@@ -14,4 +14,4 @@ puts @store1.id
 puts "---- Second Store ----"
 puts @store2.id
 
-@store1.update(name: "Van City")
+@store1.update(name: "Vancouver")
